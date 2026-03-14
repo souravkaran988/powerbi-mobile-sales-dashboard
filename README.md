@@ -22,4 +22,4 @@ This project is an interactive Power BI dashboard that analyzes mobile sales dat
 - Data Modeling
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![alt text](dash.jpg)
