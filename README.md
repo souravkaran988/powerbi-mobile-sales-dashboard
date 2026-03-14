@@ -1,7 +1,7 @@
 # Mobile Sales Dashboard (Power BI)
 
 ## Project Overview
-This project is an interactive Power BI dashboard that analyzes mobile sales data across different cities, months, brands, and payment methods.
+This project is an interactive `Power BI dashboard` that analyzes mobile sales data across different cities, months, brands, and payment methods.
 
 ## Key Insights
 - Total Sales: 769M
@@ -22,4 +22,4 @@ This project is an interactive Power BI dashboard that analyzes mobile sales dat
 - Data Modeling
 
 ## Dashboard Preview
-![alt text](dash.jpg)
+![alt text](Dashboard.png)
